@@ -1,0 +1,2 @@
+serviceClass: neiu.edu.cs404.summer.client.WeatherService
+path: A2688F31CD4A91CE32CF4C0A2730211C.gwt.rpc
